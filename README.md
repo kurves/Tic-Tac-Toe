@@ -39,10 +39,10 @@ The game component also returns a div tag that handles user clicks using the "ha
 
 ![Board](https://user-images.githubusercontent.com/84717663/143219619-548ac115-6dfc-4871-8c26-c87d5391d30c.PNG)
 
-I alo used CSS to style the app.
+I also used CSS to style the app.
 
-![css](https://user-images.githubusercontent.com/84717663/143220577-807d2b24-8b20-4138-ad53-cbb5cdaa3cda.PNG)
 
+![css3](https://user-images.githubusercontent.com/84717663/143226121-1f300958-b6f7-4ce2-bd6f-2e7a3c3edb83.PNG)
 
 
 
