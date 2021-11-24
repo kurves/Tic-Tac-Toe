@@ -34,7 +34,7 @@ The restart button restarts the game when clicked.
 
 The game component also returns a div tag that handles user clicks using the "handleClick function" and the status and the restart
 
-!status](https://user-images.githubusercontent.com/84717663/143218262-f1967207-a33d-498a-b219-67daece7ce2d.PNG)
+![status](https://user-images.githubusercontent.com/84717663/143218262-f1967207-a33d-498a-b219-67daece7ce2d.PNG)
 
 
 ![Board](https://user-images.githubusercontent.com/84717663/143219619-548ac115-6dfc-4871-8c26-c87d5391d30c.PNG)
