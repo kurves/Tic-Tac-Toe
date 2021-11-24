@@ -44,10 +44,10 @@ I also used CSS to style the app.
 
 ![css3](https://user-images.githubusercontent.com/84717663/143226121-1f300958-b6f7-4ce2-bd6f-2e7a3c3edb83.PNG)
 
- Try it out! 🇰🇪:
- http://172.20.160.1:5000
+ The app should look like this!🇰🇪:
 
 
+![gamepreview](https://user-images.githubusercontent.com/84717663/143239866-8939ff21-5450-4792-917c-e1737eec8a7b.PNG)
 
 
 # Getting Started with Create React App
