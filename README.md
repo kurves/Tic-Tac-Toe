@@ -1,5 +1,5 @@
 I created this simple interactive  Tic Tac Toe game using React Hooks.
-It shows when there is a winner ,the next player and a draw. 
+It shows when there is a winner ,the next player if no winner yet and a draw. 
 The game restarts when the restart button is clicked. 
 
 Fistly, I initialized the Square component which is basically a button that when clicked reveals either the "X" or "O".
@@ -13,11 +13,11 @@ Secondly, I created the Board component which takes the Square component and map
 
 ![board](https://user-images.githubusercontent.com/84717663/143211823-40833686-2fb3-4225-a3a9-8752c6d1e57c.PNG)
 
-Lastly, is the game component which contains the game's logic. I started with determining the  winning moves using a two dimension array. It returns the winning sqaure else it returns null.
+Lastly, is the game component which contains the game's logic. I started with determining the  winning moves using a two dimension array. It returns the winning square else it returns null.
 
 ![lines](https://user-images.githubusercontent.com/84717663/143212612-1bd88c68-a063-4f8d-8915-a3cc4ad0c933.PNG)
 
-The Game component also has the "checkdraw function" which checks for a draw which returns true if the condition is met.
+The Game component also has the "checkdraw function" which checks for a draw which returns true if the condition stated is met.
 
 
 ![checkdraw](https://user-images.githubusercontent.com/84717663/143213409-81a3e27c-1142-4237-a7a0-ff940cb0ff55.PNG)
