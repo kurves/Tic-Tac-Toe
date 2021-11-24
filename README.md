@@ -25,7 +25,8 @@ The Game component also has the "checkdraw function" which checks for a draw whi
 The Board component also takes the "handelClick function" which defines the state and the the layout of the board.
 
 
-![handleclick](https://user-images.githubusercontent.com/84717663/143215127-a9941c40-356c-4ddb-80cc-c4cb31aa1b8a.PNG)
+![handleclick](https://user-images.githubusercontent.com/84717663/143221216-9af1c0e1-e328-41c5-9fe3-7c77f22711fd.PNG)
+
 
 The restart button restarts the game when clicked.
 
