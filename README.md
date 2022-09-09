@@ -1,6 +1,10 @@
+### Introduction
+
 I created this simple interactive  Tic Tac Toe game using React Hooks.
 It shows when there is a winner ,the next player if no winner yet and a draw. 
 The game restarts when the restart button is clicked. 
+
+### Steps
 
 Fistly, I initialized the Square component which is basically a button that when clicked reveals either the "X" or "O".
 
